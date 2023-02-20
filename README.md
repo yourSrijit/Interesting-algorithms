@@ -11,3 +11,4 @@
 # The RSA Algorithm - a public-key encryption algorithm used for secure communication over a network.
 # The Luhn Algorithm - an algorithm for generating and validating credit card numbers.
 # The PageRank Algorithm - an algorithm used by Google Search to rank web pages in search results based on their importance and relevance.
+# Floyd’s cycle finding algorithm or Hare-Tortoise algorithm is a pointer algorithm that uses only two pointers, moving through the sequence at different speeds
